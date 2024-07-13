@@ -1,0 +1,16 @@
+{
+  "partidos": [
+    {
+		"partido":"PP",
+		"mediaAutoubicacion":7.09,
+		"votante":2509
+		"nsnc":302
+    },
+    {
+		"partido":"PSOE",
+		"mediaAutoubicacion":3.81,
+		"votante":2330
+		"nsnc":260
+    },
+  ]
+}
